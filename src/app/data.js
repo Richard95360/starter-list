@@ -223,7 +223,7 @@ const epicerie = [
     name: "Thé",
     price: 3.59,
     unit: "pièce",
-    image: "thé.png"
+    image: "the.png"
   },
   {
     ref: "epicerie_6",
